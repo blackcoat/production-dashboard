@@ -20,5 +20,9 @@
     "bulma": "^0.1.0",
     "font-awesome": "^4.6.3",
     "slick-carousel": "^1.6.0"
+  },
+  "devDependencies": {
+    "brunch": "^2.8.2",
+    "coffee-script-brunch": "^2.0.0"
   }
 }
