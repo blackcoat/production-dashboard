@@ -1,0 +1,23 @@
+{
+  "name": "production-dashboard",
+  "version": "1.0.0",
+  "description": "Production Dashboard ===================== Provide at-a-glance answers to common production questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackcoat/production-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackcoat/production-dashboard/issues"
+  },
+  "homepage": "https://github.com/blackcoat/production-dashboard#readme",
+  "dependencies": {
+    "bulma": "^0.1.0",
+    "font-awesome": "^4.6.3"
+  }
+}
