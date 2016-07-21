@@ -1,0 +1,13 @@
+.slider {
+  width: 100%;
+}
+
+.slider>div {
+  font-size: 1.8rem;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.slick-dots {
+  bottom: 0;
+}
