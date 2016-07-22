@@ -2,6 +2,9 @@
 # https://github.com/github/gitignore/blob/master/Global/OSX.gitignore
 # https://github.com/github/gitignore/blob/master/Node.gitignore
 
+# ==== Build Artifacts ====
+public
+
 # ==== OSX ====
 
 *.DS_Store
