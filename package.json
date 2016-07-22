@@ -1,7 +1,7 @@
 {
   "name": "production-dashboard",
   "version": "1.0.0",
-  "description": "Production Dashboard ===================== Provide at-a-glance answers to common production questions.",
+  "description": "Production Dashboard: Provide at-a-glance answers to common production questions.",
   "main": "index.js",
   "scripts": {
     "postinstall": "./bin/post-install",
