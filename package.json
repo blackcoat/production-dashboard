@@ -4,6 +4,7 @@
   "description": "Production Dashboard ===================== Provide at-a-glance answers to common production questions.",
   "main": "index.js",
   "scripts": {
+    "postinstall": "./bin/post-install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

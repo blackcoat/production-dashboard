@@ -1,0 +1,9 @@
+#!/bin/sh
+
+CP=$(which cp)
+
+place_fonts_in_target_folder() {
+  $CP -r node_modules/slick-carousel/slick/fonts/* public/fonts
+}
+
+place_fonts_in_target_folder
