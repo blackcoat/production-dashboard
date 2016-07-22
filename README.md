@@ -15,6 +15,9 @@ Provide at-a-glance answers to common production questions.
   - Which features are slated for each release?
   - Which releases are being played by our audience?
   - How does the health of a new release compare to previous releases?
+  - What are the latest production releases?
+    * What percentage of our audience have they been ramped to? (Android)
+  - When will we close the bugs for the release in flight?
 * Trends and Predictions
   - Are there any future events impacting our timeline?
   - Are we decreasing our bug volume/severity over time?
